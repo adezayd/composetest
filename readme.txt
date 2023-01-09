@@ -1,4 +1,3 @@
-
-
-http://localhost:8088
 docker compose up
+http://localhost:8088
+
